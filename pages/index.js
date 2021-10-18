@@ -1,7 +1,11 @@
 // domain.com/
 
 function HomePage() {
-  return <h1>The Home Page</h1>;
+  return (
+    <div>
+      <h1>home page</h1>
+    </div>
+  );
 }
 
 export default HomePage;
